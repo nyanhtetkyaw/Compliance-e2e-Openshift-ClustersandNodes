@@ -226,4 +226,4 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2082416
 https://bugzilla.redhat.com/show_bug.cgi?id=2032420
 http://static.open-scap.org/openscap-1.3/oscap_user_manual.html  
 
-Plans to update Profile Tailoring in the near feature.
+Happy Learning!
